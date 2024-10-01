@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello! I'm Skelen 👋
 
-<!--
-**skelen18/skelen18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a amateur developer with a love for programming and web development. I specialize in creating Minecraft plugins and continuously learning new technologies to improve my skills.
 
-Here are some ideas to get you started:
+## 💻 What I know:
+- **Java** – Developing Minecraft plugins
+- **HTML/CSS** – Building responsive and modern websites
+- **JavaScript** – Creating interactive elements for web applications
+- **Python** – Writing basic scripts and automation tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects:
+1. **Minecraft Plugins** – I develop custom plugins for Minecraft to enhance gameplay and add new features.
+2. **Web Development** – I create simple and effective websites for personal and community projects.
+3. **RilyEvents** – I'm working on the website for the Minecraft server **RilyEvents**, where I handle design, functionality, and optimization.
+
+## 📫 Contact:
+Feel free to reach out to me on GitHub or through my [Instagram](https://www.instagram.com/lordskelen18/) if you're interested in anything I've worked on!
+
+### Goal:
+My goal is to become a professional software engineer and constantly improve my programming and web development skills.
+
+---
+
+_Thanks for checking out my GitHub!_
