@@ -24,3 +24,5 @@ My goal is to become a professional software engineer and mechanical engineer, w
 ---
 
 _Thanks for checking out my GitHub!_
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skelen18&theme=tokyonight)
