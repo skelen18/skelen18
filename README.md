@@ -1,28 +1,35 @@
-# Hello! I'm Skelen 👋
+# Hey, I'm Skelen 👋
 
-I'm an amateur developer with a love for programming, web development, and mechanical engineering. I specialize in creating Minecraft plugins and continuously learning new technologies to improve my skills, while also having a strong background in engineering.
+I'm a software development student currently in the second year of my bachelor's degree. Most of my time goes into backend development, Minecraft plugins, web applications, and smaller projects where I can try something new.
 
-## 💻 What I know:
-- **Java** – Developing Minecraft plugins
-- **HTML/CSS** – Building responsive and modern websites
-- **JavaScript** – Creating interactive elements for web applications
-- **Python** – Writing basic scripts and automation tools
-- **Mechanical Engineering** – Familiar with technical drawings, manufacturing processes, force calculations, and other engineering principles
+## Technologies
 
-## 🛠️ Projects:
-1. **Minecraft Plugins** – I develop custom plugins for Minecraft to enhance gameplay and add new features.
-2. **Web Development** – I create simple and effective websites for personal and community projects.
-3. **RilyEvents** – I'm working on the website for the Minecraft server **RilyEvents**, where I handle design, functionality, and optimization, and I'm creating custom plugins for the server.
-4. **Engineering Projects** – I work on engineering projects that involve designing mechanical components, creating technical drawings, and performing force and load calculations.
+- **Java** – Minecraft plugins, server systems, and backend projects
+- **TypeScript / JavaScript** – web applications, tools, and bots
+- **C / C++ / C#** – school projects and experimenting with lower-level programming
+- **Python** – scripts, automation, and smaller utilities
+- **HTML / CSS** – websites and simple interfaces
+- **SQL** – databases and data-driven applications
+- **Git** – version control and collaboration
 
-## 📫 Contact:
-Feel free to reach out to me on GitHub or through my [Instagram](https://www.instagram.com/lordskelen18/) if you're interested in anything I've worked on!
+## Selected projects
 
-### Goal:
-My goal is to become a professional software engineer and mechanical engineer, while constantly improving my programming, web development, and engineering skills.
+- **RilyEvent** – Minecraft server ecosystem. I have worked on plugins, server cores, proxy-related tools, minigames, and other backend systems.
+- **Bouchal System** – a private TypeScript project.
+- **Vinyl Hunter** – a private web project built with TypeScript.
+- **Album Tier** – a private TypeScript project for comparing and ranking albums.
+- **Bouchal Discord Bot** – a private Discord bot written in Python.
+- **Easy Event / Easy Tab / Easy Ruletka** – Java projects and plugins for Minecraft-related features.
+- **Organizy and DS Tools** – JavaScript projects and utilities.
+- **School projects** – C, C++, C#, Assembly, databases, operating systems, and algorithms.
+- **Advent of Code** – programming challenges, mostly solved in Python.
 
----
+I'm still learning and building things regularly, so this list will probably change over time.
 
-_Thanks for checking out my GitHub!_
+## Contact
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skelen18&theme=tokyonight)
+You can reach me here on GitHub or on [Instagram](https://www.instagram.com/lordskelen18/).
+
+## Most used languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skelen18&layout=compact&theme=tokyonight)
